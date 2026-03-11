@@ -1,8 +1,9 @@
 # entregass
-# GRUPO: CEMABA
+# GRUPO: CEBAMA T
 ## Integrantes 
-- Bautilín 
-- Maia
-- Celina
+- Bautista Pons 
+- Maia Ortiz
+- Celina Lopez
+- Rocio? 
 ---
 Entrega del módulo 1 <https://github.com/bautistapons/modulo.1>
