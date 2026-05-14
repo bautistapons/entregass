@@ -12,8 +12,8 @@
 - Entrega Módulo 1 Lopez <https://github.com/celina-lopezz/Modulo-1>
 - Entrega Módulo 1 Gomez <https://github.com/Rocio-Susana-Gomez/MODULO-1>
 ---
-| Nombre | Correo |Teléfono|GitHub |
-|-------:|:------|-----------|:---------:|
+| Nombre | Correo |Teléfono|GitHub | GitHub 2 |
+|-------:|:------|-----------|:---------:|:---------:|
 | Maia Ortiz  | maialortiz@gmail.com | 2612 46-9048 |[MODULO 1](https://github.com/ortiz-maia/Modulo-1)|[MODULO 2](https://github.com/ortiz-maia/MODULO-2) |
 | Celina Lopez | celinafacultad12@gmail.com| 2616 52-2265 |[MODULO 1](https://github.com/celina-lopezz/Modulo-1)|[MODULO 2](https://github.com/celina-lopezz/Modululo-2)|
 | Rocio Gomez | rociogomez4772@gmail.com | 2634 55-4118| [MODULO 1](https://github.com/Rocio-Susana-Gomez/MODULO_1) |[MODULO 2](https://github.com/Rocio-Susana-Gomez/MODULO-2-)|
