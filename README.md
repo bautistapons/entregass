@@ -14,10 +14,10 @@
 ---
 | Nombre | Correo |Teléfono|GitHub |
 |-------:|:------|-----------|:---------:|
-| Maia Ortiz  | maialortiz@gmail.com | 2612 46-9048 |[MODULO 1](https://github.com/ortiz-maia/Modulo-1)|
-| Celina Lopez | celinafacultad12@gmail.com| 2616 52-2265 |[MODULO 1](https://github.com/celina-lopezz/Modulo-1)|
-| Rocio Gomez | rociogomez4772@gmail.com | 2634 55-4118| [MODULO 1](https://github.com/Rocio-Susana-Gomez/MODULO_1) |
-| Bautista Pons | baupons@gmail.com |2622 63-8022| [MODULO 1](https://github.com/bautistapons/modulo.1) |
+| Maia Ortiz  | maialortiz@gmail.com | 2612 46-9048 |[MODULO 1](https://github.com/ortiz-maia/Modulo-1)| |[MODULO 2](https://github.com/ortiz-maia/MODULO-2)
+| Celina Lopez | celinafacultad12@gmail.com| 2616 52-2265 |[MODULO 1](https://github.com/celina-lopezz/Modulo-1)|[MODULO 2](https://github.com/celina-lopezz/Modululo-2)|
+| Rocio Gomez | rociogomez4772@gmail.com | 2634 55-4118| [MODULO 1](https://github.com/Rocio-Susana-Gomez/MODULO_1) |[MODULO 2](https://github.com/Rocio-Susana-Gomez/MODULO-2-)|
+| Bautista Pons | baupons@gmail.com |2622 63-8022| [MODULO 1](https://github.com/bautistapons/modulo.1) | [MODULO 1](https://github.com/bautistapons/MODULO2)|
 
 
 $e^{i\pi} + 1 = 0$
